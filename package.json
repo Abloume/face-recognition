@@ -1,12 +1,11 @@
 {
   "name": "face_recognition",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "基于Vue+Node+百度人脸识别JS SDK的人脸识别应用",
   "author": "abloume",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
-    "start": "npm run dev",
     "build": "node build/build.js"
   },
   "dependencies": {
