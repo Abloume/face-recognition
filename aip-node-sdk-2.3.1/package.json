@@ -15,11 +15,14 @@
   "dependencies": {
     "debug": "^2.6.0",
     "iconv-lite": "^0.4.15",
-    "request": "^2.79.0",
-    "underscore": "^1.8.3"
+    "request": "^2.79.0"
   },
   "optionalDependencies": {
     "should": "^13.2.0",
     "mocha": "^4.0.1"
+  },
+  "devDependencies": {
+    "minimist": "^0.2.1",
+    "underscore": "^1.13.1"
   }
 }
