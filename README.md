@@ -25,8 +25,10 @@ node service.js
 
 在` service.js `中填入自己应用的APP_ID、API_KEY、SECRET_KEY。
 
+<hr />
+
 #### 备注
 
-开发于 2018年（大学时期）
+开发于 2018年
 
-更新于 2021年（小幅更新）
+更新于 2021年（添加README，更新npm包等）
