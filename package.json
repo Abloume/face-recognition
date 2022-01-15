@@ -56,7 +56,7 @@
     "rimraf": "^2.6.0",
     "semver": "^5.3.0",
     "serialize-javascript": "^3.1.0",
-    "shelljs": "^0.7.6",
+    "shelljs": "^0.8.5",
     "sockjs": "^0.3.21",
     "ssri": "^6.0.2",
     "trim-newlines": "^3.0.1",
