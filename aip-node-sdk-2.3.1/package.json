@@ -22,7 +22,7 @@
     "mocha": "^4.0.1"
   },
   "devDependencies": {
-    "minimist": "^0.2.1",
+    "minimist": "^1.2.6",
     "underscore": "^1.13.1"
   }
 }
