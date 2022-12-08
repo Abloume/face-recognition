@@ -11,7 +11,7 @@
   "dependencies": {
     "baidu-aip-sdk": "file:aip-node-sdk-2.3.1",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "request": "^2.88.0",
